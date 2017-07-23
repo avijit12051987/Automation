@@ -17,6 +17,7 @@ public class AccessXmlMaven {
 		System.out.println("Inside main");
 		AccessXmlMaven.writeIntoExcel("Record.xlsx");
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 
 	}
 	public static void writeIntoExcel(String file) throws FileNotFoundException, IOException
