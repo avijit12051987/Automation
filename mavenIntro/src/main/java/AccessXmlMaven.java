@@ -16,6 +16,7 @@ public class AccessXmlMaven {
 		// TODO Auto-generated method stub
 		System.out.println("Inside main");
 		AccessXmlMaven.writeIntoExcel("Record.xlsx");
+		System.out.println("Test 1");
 
 	}
 	public static void writeIntoExcel(String file) throws FileNotFoundException, IOException
